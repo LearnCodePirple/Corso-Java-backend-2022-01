@@ -1,4 +1,10 @@
-public class PrimeNumber {
+public class PrimeNumber
+
+    /* Scrivere un metodo che, dato in input un intero a, ritorni true se il
+    numero è primo, false altrimenti.
+     */
+
+{
     public static void main(String[] args) {
         int number = 2;
         System.out.println(isPrime(number));
